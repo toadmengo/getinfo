@@ -1,0 +1,11 @@
+google.com
+facebook.com
+youtube.com
+twitter.com
+instagram.com
+linkedin.com
+microsoft.com
+apple.com
+pinterest.com
+vimeo.com
+adobe.com
