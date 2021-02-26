@@ -89,6 +89,7 @@ func getinfo(url string) (int, int64, int64, int64, error) {
 	if len(url) < 8 || url[:8] != "https://" {
 		url = "https://" + url
 	}
+
 	start := time.Now().UnixNano()
 	resp, err := http.Get(url)
 	end := time.Now().UnixNano()
